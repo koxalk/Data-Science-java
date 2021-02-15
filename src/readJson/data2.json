@@ -1,0 +1,23 @@
+[
+        {
+            "city" :{
+            "id": 1,
+            "year": 2015,
+            "city": "San Francisco"
+            }
+        },
+        {
+            "city" :{
+            "id": 2,
+            "year": 2014,
+            "city": "New York"
+            }
+        },
+        {
+            "city" :{
+            "id": 3,
+            "year": 2012,
+            "city": "Los Angeles"
+            }
+        }
+]
