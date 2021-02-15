@@ -60,14 +60,13 @@ public class WriteInJson {
 
                     
         }catch (IOException e) {
-            System.out.print("error: " + e.getMessage());
+            System.out.println("error: " + e.getMessage());
         }finally{
             try {
                 file.flush();
                 file.close();
             } catch (IOException e) {
-                // TODO Auto-generated catch block
-                e.printStackTrace();
+                System.out.println("error: " + e.getMessage());
             }
         }
         
