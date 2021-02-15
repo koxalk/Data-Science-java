@@ -3,3 +3,7 @@ data science in java
 
 #9:15 14/2/2021
 add simple read json file
+
+#7:29 15/2/2021
+
+add read json file with array
