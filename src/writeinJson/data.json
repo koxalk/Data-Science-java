@@ -1,13 +1,1 @@
-[{
-        "user": {
-            "firstname": "kostas",
-            "id": "1",
-            "lastname": "xalkiadakis"
-        }
-    }, {
-        "user": {
-            "firstname": "nikos",
-            "id": "2",
-            "lastname": "papas"
-        }
-    }]
+[{"user":{"firstname":"kostas","id":"1","lastname":"xalkiadakis"}},{"user":{"firstname":"nikos","id":"2","lastname":"papas"}}]

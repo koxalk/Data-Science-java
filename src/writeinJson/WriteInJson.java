@@ -14,7 +14,10 @@ import org.json.simple.JSONObject;
  *
  * @author kosta
  */
+@SuppressWarnings("unchecked")
 public class WriteInJson {
+    
+    private static FileWriter file;
     
     public static void main(String args[])
     {
@@ -48,15 +51,24 @@ public class WriteInJson {
 
         array.add(userObject2);
         
-        try(FileWriter file = 
-                new FileWriter("C://Users/kosta/Documents/NetBeansProjects/DataScience/src/writeInJson/data.json"))
+        try
         {
-            file.write(array.toJSONString());
+            file = 
+                new FileWriter("C://Users/kosta/Documents/NetBeansProjects/DataScience/src/writeInJson/data.json");
             
-            file.flush();
+            file.write(array.toJSONString());
+
                     
         }catch (IOException e) {
-            e.printStackTrace();
+            System.out.print("error: " + e.getMessage());
+        }finally{
+            try {
+                file.flush();
+                file.close();
+            } catch (IOException e) {
+                // TODO Auto-generated catch block
+                e.printStackTrace();
+            }
         }
         
         
