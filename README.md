@@ -9,3 +9,15 @@ add simple read json file
 add read json file using array
 
 add write in json file using array
+
+#16/2/2021
+
+write in file using 3 methods
+
+++>> 1 method using
+     String.join
+     using String array
+     
+++>> 2 method keeping data and write
+
+++>> 3 method PrintWriter class
