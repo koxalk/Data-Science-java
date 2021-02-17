@@ -80,7 +80,7 @@ public class DataDaoImpl implements DataDao {
             
             stmt.executeUpdate();
             //return success message
-            return "updatesucessfull";
+            return "update sucessfull";
             
         } catch (SQLException e) {
             System.out.println("error: " + e.getMessage());
