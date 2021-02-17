@@ -130,7 +130,7 @@ public class DataDaoImpl implements DataDao {
             System.out.println("Error:" + e.toString() + e.getMessage());
         }
 
-        //retur list with data 
+        //return list with data 
 
         return dataList;
     }
