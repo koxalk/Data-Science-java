@@ -21,3 +21,15 @@ write in file using 3 methods
 ++>> 2 method keeping data and write
 
 ++>> 3 method PrintWriter class
+
+#17/2/2021
+
+data to mysql using design pattern dao(Data Acesss Object)
+
+--> add to database
+ 
+--> remove data by id from database
+
+--> update data 
+
+-->get data from database
