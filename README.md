@@ -33,3 +33,19 @@ data to mysql using design pattern dao(Data Acesss Object)
 --> update data 
 
 -->get data from database
+
+#18/2/2021
+
+add basic bar chart
+
+#19/2/2021
+
+Pie Chart
+
+Line Chart
+
+Area Chart
+
+Bubble Chart
+
+Scatter Chart
