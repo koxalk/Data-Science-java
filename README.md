@@ -49,3 +49,7 @@ Area Chart
 Bubble Chart
 
 Scatter Chart
+
+#20/2/2021
+
+add chart from json file
