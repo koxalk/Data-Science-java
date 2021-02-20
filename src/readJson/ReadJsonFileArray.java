@@ -16,6 +16,7 @@ import org.json.simple.parser.ParseException;
  *
  * @author kosta
  */
+@SuppressWarnings("unchecked")
 public class ReadJsonFileArray {
 
     public static void main(String args[]) {
