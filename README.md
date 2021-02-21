@@ -53,3 +53,10 @@ Scatter Chart
 #20/2/2021
 
 add chart from json file
+
+#21/2/2021
+
+- linear algebra (Arrays)
+        - RealVector Array
+        - BlockRealMatrix
+        - MapStorage
