@@ -10,7 +10,7 @@ import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
 @SuppressWarnings("unchecked")
-public class chartFromJson {
+public class chartFromJson{
 
     public static void main(String ags[]) {
         //json parser
