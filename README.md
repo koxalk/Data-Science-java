@@ -60,3 +60,9 @@ add chart from json file
         - RealVector Array
         - BlockRealMatrix
         - MapStorage
+
+#22/2/2021
+
+- AccesingElements
+- Submatrices
+- RandomizedMatrix
