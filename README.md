@@ -60,6 +60,9 @@ add chart from json file
         - RealVector Array
         - BlockRealMatrix
         - MapStorage
+        - Scaling
+        - Transposing
+        - Addition and Subtraction
 
 #22/2/2021
 
