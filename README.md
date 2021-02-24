@@ -70,3 +70,12 @@ add chart from json file
 - Scaling
 - Transposing
 - Addition and Subtraction
+
+#23/2/2021
+-length
+       -norm of arrays
+
+
+#24/2/2021
+-distances
+-multiplication
