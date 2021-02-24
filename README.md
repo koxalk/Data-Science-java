@@ -74,3 +74,8 @@ add chart from json file
 #23/2/2021
 -length
        -norm of arrays
+
+
+#24/2/2021
+-distances
+-multiplication
