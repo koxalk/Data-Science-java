@@ -79,3 +79,12 @@ add chart from json file
 #24/2/2021
 -distances
 -multiplication
+
+
+#27/2/2021
+-INNER PRODUCT
+-OUTER PRODUCT
+-Compound Operations
+-Affine Operations
+-EntryWise Product
+-Mapping function
