@@ -82,9 +82,17 @@ add chart from json file
 
 
 #27/2/2021
--INNER PRODUCT
--OUTER PRODUCT
--Compound Operations
--Affine Operations
--EntryWise Product
--Mapping function
+ - INNER PRODUCT
+ - OUTER PRODUCT
+ - Compound Operations
+ - Affine Operations
+ - EntryWise Product
+ - Mapping function
+
+#1/3/2021
+- Decomposition
+- Cholesky Decomposition
+- LU Decomposition
+- QR Decomposition
+- Singular Value Decomposition 
+- Eigen Decomposition
