@@ -96,3 +96,9 @@ add chart from json file
 - QR Decomposition
 - Singular Value Decomposition 
 - Eigen Decomposition
+
+#11/3/2021
+- solving systems
+- DATA OPERATIONS
+     -Tokenizer
+     - Dictionary
