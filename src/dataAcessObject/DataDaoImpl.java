@@ -38,6 +38,9 @@ public class DataDaoImpl implements DataDao {
 
                 //execute statement
                 stmt.executeUpdate();
+                
+                //close the statement
+                stmt.close();
             }
 
             //return success message
@@ -60,6 +63,8 @@ public class DataDaoImpl implements DataDao {
             //execute statement
             stmt.executeUpdate();
 
+            //close the statement
+            stmt.close();
             //return success message
             return "remove sucessfull";
         } catch (SQLException e) {

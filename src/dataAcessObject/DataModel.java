@@ -10,7 +10,7 @@ package dataAcessObject;
  * @author kosta
  */
 public class DataModel {
-     private int id;
+    private int id;
     private int year;
     private String city;
     

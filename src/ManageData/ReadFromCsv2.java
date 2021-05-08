@@ -5,10 +5,6 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import org.apache.commons.csv.*;
 
-/**
- *
- * @author kosta
- */
 public class ReadFromCsv2 {
     public static void main(String args[])
     {
@@ -17,7 +13,7 @@ public class ReadFromCsv2 {
             String line;
 
             while ((line = br.readLine()) != null) {
-            String[] s= line.split("\t");
+           // String[] s= line.split("\t");
             
             CSVParser parser= CSVParser.parse(line,CSVFormat.RFC4180);
             
@@ -34,5 +30,6 @@ public class ReadFromCsv2 {
         } catch (Exception e) {
             System.err.println(e.getMessage());
         }
+        
     }
 }
